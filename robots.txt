@@ -15,4 +15,4 @@ Disallow: /private/
 Disallow: /*.json$
 Disallow: /404
 
-Sitemap: https://seratik.com/sitemap.xml
+Sitemap: https://masarakeg.github.io/seratik/sitemap.xml

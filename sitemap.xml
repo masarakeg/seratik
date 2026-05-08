@@ -5,13 +5,13 @@
 
   <!-- الرئيسية -->
   <url>
-    <loc>https://seratik.com/</loc>
+    <loc>https://masarakeg.github.io/seratik/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://seratik.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://masarakeg.github.io/seratik/"/>
     <image:image>
-      <image:loc>https://seratik.com/images/og-image.jpg</image:loc>
+      <image:loc>https://masarakeg.github.io/seratik/images/og-image.jpg</image:loc>
       <image:title>سيرتك SERATIK – تصميم سيرة ذاتية احترافية</image:title>
       <image:caption>الخدمة الأولى في مصر لتصميم السيرة الذاتية الاحترافية المتوافقة مع ATS</image:caption>
     </image:image>
@@ -19,7 +19,7 @@
 
   <!-- نماذج السيرة -->
   <url>
-    <loc>https://seratik.com/templates/</loc>
+    <loc>https://masarakeg.github.io/seratik/templates/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -27,7 +27,7 @@
 
   <!-- خدماتنا -->
   <url>
-    <loc>https://seratik.com/services/</loc>
+    <loc>https://masarakeg.github.io/seratik/services/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -35,7 +35,7 @@
 
   <!-- المدونة -->
   <url>
-    <loc>https://seratik.com/blog/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -43,35 +43,35 @@
 
   <!-- مقالات المدونة -->
   <url>
-    <loc>https://seratik.com/blog/best-cv-skills-2026/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/best-cv-skills-2026/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://seratik.com/blog/cv-rejection-reasons/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/cv-rejection-reasons/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://seratik.com/blog/ats-pass-guide/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/ats-pass-guide/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://seratik.com/blog/best-cv-for-graduates/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/best-cv-for-graduates/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://seratik.com/blog/cover-letter-writing/</loc>
+    <loc>https://masarakeg.github.io/seratik/blog/cover-letter-writing/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -79,7 +79,7 @@
 
   <!-- اتصل بنا -->
   <url>
-    <loc>https://seratik.com/contact/</loc>
+    <loc>https://masarakeg.github.io/seratik/contact/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -87,7 +87,7 @@
 
   <!-- سياسة الخصوصية -->
   <url>
-    <loc>https://seratik.com/privacy/</loc>
+    <loc>https://masarakeg.github.io/seratik/privacy/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
