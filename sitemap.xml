@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- الرئيسية -->
+  <url>
+    <loc>https://seratik.com/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://seratik.com/"/>
+    <image:image>
+      <image:loc>https://seratik.com/images/og-image.jpg</image:loc>
+      <image:title>سيرتك SERATIK – تصميم سيرة ذاتية احترافية</image:title>
+      <image:caption>الخدمة الأولى في مصر لتصميم السيرة الذاتية الاحترافية المتوافقة مع ATS</image:caption>
+    </image:image>
+  </url>
+
+  <!-- نماذج السيرة -->
+  <url>
+    <loc>https://seratik.com/templates/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- خدماتنا -->
+  <url>
+    <loc>https://seratik.com/services/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- المدونة -->
+  <url>
+    <loc>https://seratik.com/blog/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- مقالات المدونة -->
+  <url>
+    <loc>https://seratik.com/blog/best-cv-skills-2026/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://seratik.com/blog/cv-rejection-reasons/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://seratik.com/blog/ats-pass-guide/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://seratik.com/blog/best-cv-for-graduates/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://seratik.com/blog/cover-letter-writing/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- اتصل بنا -->
+  <url>
+    <loc>https://seratik.com/contact/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- سياسة الخصوصية -->
+  <url>
+    <loc>https://seratik.com/privacy/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
